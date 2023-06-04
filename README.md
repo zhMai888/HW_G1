@@ -14,3 +14,4 @@ verify_vip:用于升级vip
 vip:弹出vip介绍，并询问是否成为vip
 
 ![image](https://github.com/zhMai888/HW_G1/blob/master/photo/d687a6686837dedc6b5bb6e113fbfb8.png)
+![image](https://github.com/zhMai888/HW_G1/blob/master/photo/b77d15be1d6eb3a28b235a59430e0b2.png)

@@ -14,7 +14,7 @@ verify_vip:用于升级账户
 vip:弹出询问是否升级vip  
 Ps:如要使用，要将Github的token和QQ邮箱的密钥自己填写上才行  
 
-介绍网站地址![网站](https://zhmak4.wordpress.com)  
+介绍网站地址:[https://zhmak4.wordpress.com](https://zhmak4.wordpress.com)  
 
 ![image](https://github.com/zhMai888/HW_G1/blob/master/photo/d687a6686837dedc6b5bb6e113fbfb8.png)
 

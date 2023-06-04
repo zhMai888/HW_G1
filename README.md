@@ -12,3 +12,5 @@ get:用账号找回密码
 steamjia:主程序
 verify_vip:用于升级vip
 vip:弹出vip介绍，并询问是否成为vip
+
+![image](https://github.com/zhMai888/HW_G1/blob/master/photo/d687a6686837dedc6b5bb6e113fbfb8.png)
